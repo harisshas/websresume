@@ -5,7 +5,11 @@
     padding-top: 15px;
     padding-bottom: 0;
 }
-
+#resume_download
+{
+    background-color:blue;
+    background-image: linear-gradient(to right, #89CFF0, #7FFFD4);
+}
 body
 {
     margin-left:30px;
