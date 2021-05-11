@@ -16,9 +16,25 @@ body
 }
 #toprow
 {
+    margin-top: 75px;
     padding-top: 2rem;
     background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
 }
-img {
+#secondrow
+{
+    margin-top:20px;
+}
+#profilepic 
+{
     border-radius: 50%;
-  }
+    transform:rotate(0deg);
+}
+#targetsign
+{
+    font-size:10rem;
+    margin-top:20px;
+}
+#qualcol
+{
+    text-align: center;
+}
