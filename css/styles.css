@@ -1,6 +1,6 @@
 .jumbotron
 {
-    background-color:white;
+    background:transparent;
     margin-bottom:0;
     padding-top: 15px;
     padding-bottom: 0;
@@ -8,9 +8,16 @@
 #resume_download
 {
     background-color:blue;
-    background-image: linear-gradient(to right, #89CFF0, #7FFFD4);
+    background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
 }
 body
 {
     margin-left:30px;
 }
+#toprow
+{
+    background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+}
+img {
+    border-radius: 50%;
+  }
