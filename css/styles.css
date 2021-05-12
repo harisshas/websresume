@@ -24,14 +24,8 @@ body
     border-radius: 2%;
     border-width: 0.5rem;
 }
-#qualrow
-{
-    margin-top:20px;
-}
-#edurow
-{
-    margin-top:20px;
-}
+
+
 #profilepic 
 {
     border-radius: 50%;
@@ -48,23 +42,33 @@ body
     margin-top:20px;
     color:cadetblue;
 }
+#qualrow
+{
+    margin-top:20px;
+}
 #qualcol
 {
     text-align: center;
     
 }
+
+#edurow
+{
+    margin-top:20px;
+    margin-left:10px;
+}
 #educol
 {
     text-align: center;
-    background-color: azure;
-    margin-top: 10px;
+    background-color:blue;
+    background: linear-gradient(90deg, #c9effa 0%, #c5f7ca 100%);
+    margin: 7px;
+    padding:10px;
+    border-radius: 7%;
+    width:43rem;
+    
 }
-.carousel-item
-{
-    height:30rem;
-    background-color: aqua;
-    text-align:center;
-}
+
 .coltitle
 {
     font-size:3rem;
